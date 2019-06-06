@@ -2,3 +2,5 @@
 /node_modules
 .vscode
 .vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/React-Router-Movies/v15/.suo
